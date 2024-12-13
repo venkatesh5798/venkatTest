@@ -16,8 +16,8 @@ const demoData = [
     version: 6.49
   },
   {
-    name: "vicky",
-    language: "hindi",
+    name: "prakesh ",
+    language: "tamil",
     id: "F2KEU5L7EHYSYFTT",
     bio: "Duis commodo orci ut dolor iaculis facilisis. Morbi ultricies consequat ligula posuere eleifend. Aenean finibus in tortor vel aliquet. Fusce eu ultrices elit, vel posuere neque.",
     version: 1.9
