@@ -2,7 +2,7 @@ git and version control topic
 
 const demoData = [
   {
-    name: "venkat",
+    name: "venkatesh",
     language: "tamil",
     id: "ENTOCR13RSCLZ6KU",
     bio: "Aliquam sollicitudin ante ligula, eget malesuada nibh efficitur et. Pellentesque massa sem, scelerisque sit amet odio id, cursus tempor urna. Etiam congue dignissim volutpat. Vestibulum pharetra libero et velit gravida euismod.",
